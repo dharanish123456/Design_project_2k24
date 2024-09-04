@@ -3,7 +3,7 @@ import requests
 from PIL import Image
 from io import BytesIO
 from groq import Groq
-
+#kfkjfn
 # Azure Computer Vision API Configuration
 AZURE_API_KEY = 'e2ef85d27fa74e7ea7d2a1b6b608adaf'
 AZURE_ENDPOINT = 'https://bharaths.cognitiveservices.azure.com/vision/v3.2/analyze'
